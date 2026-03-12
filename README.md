@@ -64,7 +64,7 @@ voice-detection-api/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/voice-detection-api.git
+git clone https://github.com/Sanjay2408/AI-voice-detection.git
 cd voice-detection-api
 ```
 
